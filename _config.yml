@@ -1,0 +1,9 @@
+# Setup
+title:        smalltalkCI
+tagline:      Community-supported framework for testing Smalltalk projects on Linux & OS X and on Travis CI.
+baseurl:      ""
+
+# About/contact
+author:
+  name:       Software Architecture Group (Hasso Plattner Institute)
+  url:        https://github.com/hpi-swa
